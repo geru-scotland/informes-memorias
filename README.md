@@ -6,3 +6,4 @@
 * Iñatrix Overflow (NDS game) [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Estructuras%20de%20Computadores/IñatrixOverflow%20-%20Memoria.pdf">4</a>] [<a href="https://github.com/geru-scotland/inatrix_overflow">Repository</a>]
 * Trabjo Colaborativo (Bases de Datos) [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Bases%20de%20Datos/Trabajo%20Colaborativo.pdf">5</a>]
 * IMDB-app (algoritmia) [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Estructuras%20de%20datos%20y%20algoritmos/Memoria%20fase%203.pdf">6</a>] [<a href="https://github.com/geru-scotland/IMDB-app">Repository</a>]
+* Informe Laboratorios [1-7] (Mineria de datos - Machine Learning) [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Mineria%20de%20Datos/Informe%20-%20Laboratorios%201_7.pdf">7</a>]
