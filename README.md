@@ -10,3 +10,4 @@
 * Machine Learning / Minería de datos - Informe Laboratorios [8-12] [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Mineria%20de%20Datos/Informe%20-%20Laboratorios%208_12.pdf">8</a>]
 * Computación Científica - Informe Bloque 1 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20I.pdf">9</a>]
 * Computación Científica - Informe Bloque 2 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20II.pdf">10</a>]
+* Computación Científica - Informe Bloque 3 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20III.pdf">11</a>]
