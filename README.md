@@ -12,3 +12,4 @@
 * Computación Científica - Informe Bloque 1 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20I.pdf">10</a>]
 * Computación Científica - Informe Bloque 2 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20II.pdf">11</a>]
 * Computación Científica - Informe Bloque 3 [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Computación%20Científica/Computación%20Científica%20-%20Informe%20Bloque%20III.pdf">12</a>]
+* Gráficos por Computador - Documentación [<a href="https://github.com/geru-scotland/informes-memorias/blob/master/Gráficos%20por%20Computador/Documentación.pdf">13</a>]
